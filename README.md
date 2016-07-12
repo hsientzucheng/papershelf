@@ -18,7 +18,8 @@
 
 [End-to-end Learning of Action Detection from Frame Glimpses in Videos](http://vision.stanford.edu/pdf/yeung2016cvpr.pdf), CVPR, 2016, Serena Yeung et al.
 
-[Dynamic Image Networks for Action Recognition](https://www.robots.ox.ac.uk/~vgg/publications/2016/Bilen16a/bilen16a.pdf), CVPR, 2016, Hakan Bilen et al.
+[Unsupervised Learning using Sequential
+Verification for Action Recognition](http://arxiv.org/pdf/1603.08561v1.pdf), ECCV, 2016, Ishan Misra et al.
 
 ##saliency, attention 
 
@@ -32,6 +33,8 @@ Dataset: [mit saliency benchmark](http://saliency.mit.edu/datasets.html)
 
 [Shallow and Deep Convolutional Networks for Saliency Prediction](https://arxiv.org/pdf/1603.00845v1.pdf), CVPR, 2016, Junting Pan et al. [project github](https://github.com/imatge-upc/saliency-2016-cvpr)
 
+[Dynamic Image Networks for Action Recognition](https://www.robots.ox.ac.uk/~vgg/publications/2016/Bilen16a/bilen16a.pdf), CVPR, 2016, Hakan Bilen et al.
+
 ##detection
 
 [HyperNet: Towards Accurate Region Proposal Generation
@@ -41,6 +44,9 @@ and Joint Object Detection](https://arxiv.org/pdf/1604.00600.pdf), 2016, Tao Kon
 Regression Networks](https://arxiv.org/pdf/1604.01802v1.pdf), 2016, David Held et al.
 
 [Weakly Supervised Object Localization with Progressive Domain Adaptation](http://faculty.ucmerced.edu/mhyang/papers/cvpr16_object_localization.pdf), CVPR, 2016, Dong Li et al.
+
+[Multi-scale Patch Aggregation (MPA)
+for Simultaneous Detection and Segmentation](http://www.cse.cuhk.edu.hk/leojia/papers/mpa_cvpr16.pdf), CVPR, 2016, Shu Liu et al.
 
 ##segmantation
 
