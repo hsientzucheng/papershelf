@@ -2,7 +2,7 @@
 
 ##video activity
 
-[Action Recognition with Trajectory-Pooled Deep-Convolutional Descriptors](http://www.cv-foundation.org/openaccess/content_cvpr_2015/papers/Wang_Action_Recognition_With_2015_CVPR_paper.pdf), CVPR, 2015, Limin Wang et al.
+[Action Recognition with Trajectory-Pooled Deep-Convolutional Descriptors](http://www.cv-foundation.org/openaccess/content_cvpr_2015/papers/Wang_Action_Recognition_With_2015_CVPR_paper.pdf), CVPR, 2015, Limin Wang et al. [project github](https://github.com/wanglimin/TDD)
 
 [Convolutional Two-Stream Network Fusion for Video Action Recognition](https://arxiv.org/pdf/1604.06573.pdf), CVPR, 2016, Christoph Feichtenhofer et al.
 
@@ -21,4 +21,6 @@ Learnt Saliency Models for Visual Recognition](https://arxiv.org/pdf/1312.7570.p
 Dataset: [mit saliency benchmark](http://saliency.mit.edu/datasets.html) 
 
 [Recurrent Attentional Networks for Saliency Detection](https://arxiv.org/pdf/1604.03227.pdf), CVPR, 2016, Jason Kuen et al.
+
+[Shallow and Deep Convolutional Networks for Saliency Prediction](https://arxiv.org/pdf/1603.00845v1.pdf), CVPR, 2016, Junting Pan et al. [project github](https://github.com/imatge-upc/saliency-2016-cvpr)
 
