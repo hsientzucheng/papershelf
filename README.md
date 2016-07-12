@@ -16,6 +16,10 @@
 
 [UCF101 DATASET](http://crcv.ucf.edu/data/UCF101.php)
 
+[End-to-end Learning of Action Detection from Frame Glimpses in Videos](http://vision.stanford.edu/pdf/yeung2016cvpr.pdf), CVPR, 2016, Serena Yeung et al.
+
+[Dynamic Image Networks for Action Recognition](https://www.robots.ox.ac.uk/~vgg/publications/2016/Bilen16a/bilen16a.pdf), CVPR, 2016, Hakan Bilen et al.
+
 ##saliency, attention 
 
 [Recurrent Models of Visual Attention](https://papers.nips.cc/paper/5542-recurrent-models-of-visual-attention.pdf), NIPS, 2014, Volodymyr Mnih et al.
@@ -28,10 +32,31 @@ Dataset: [mit saliency benchmark](http://saliency.mit.edu/datasets.html)
 
 [Shallow and Deep Convolutional Networks for Saliency Prediction](https://arxiv.org/pdf/1603.00845v1.pdf), CVPR, 2016, Junting Pan et al. [project github](https://github.com/imatge-upc/saliency-2016-cvpr)
 
-[End-to-end Learning of Action Detection from Frame Glimpses in Videos](http://vision.stanford.edu/pdf/yeung2016cvpr.pdf), CVPR, 2016, Serena Yeung et al.
+##detection
 
+[HyperNet: Towards Accurate Region Proposal Generation
+and Joint Object Detection](https://arxiv.org/pdf/1604.00600.pdf), 2016, Tao Kong et al.
 
+[Learning to Track at 100 FPS with Deep
+Regression Networks](https://arxiv.org/pdf/1604.01802v1.pdf), 2016, David Held et al.
 
+[Weakly Supervised Object Localization with Progressive Domain Adaptation](http://faculty.ucmerced.edu/mhyang/papers/cvpr16_object_localization.pdf), CVPR, 2016, Dong Li et al.
 
+##segmantation
+
+[SEMANTIC IMAGE SEGMENTATION WITH DEEP CONVOLUTIONAL
+NETS AND FULLY CONNECTED CRFS](https://arxiv.org/pdf/1412.7062v4.pdf), ICLR, 2015, Liang-Chieh Chen et al.
+
+[Object Boundary Guided Semantic
+Segmentation](http://arxiv.org/pdf/1603.09742v4.pdf), (ACCV) 2016, Qin Huang et al.
+
+##optical flow
+
+[FlowNet: Learning Optical Flow with Convolutional Networks](http://arxiv.org/pdf/1504.06852v2.pdf), ICCV, 2015, Philipp Fischer et al.
+
+[A Large Dataset to Train Convolutional Networks
+for Disparity, Optical Flow, and Scene Flow Estimation](http://arxiv.org/pdf/1512.02134v1.pdf), CVPR, 2016, Nikolaus Mayer et al.
+
+[Deep Semantic Matching for Optical Flow](http://arxiv.org/pdf/1604.01827v1.pdf), 2016, Min Bai et al.
 
 
