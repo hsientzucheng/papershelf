@@ -48,6 +48,8 @@ Regression Networks](https://arxiv.org/pdf/1604.01802v1.pdf), 2016, David Held e
 [Multi-scale Patch Aggregation (MPA)
 for Simultaneous Detection and Segmentation](http://www.cse.cuhk.edu.hk/leojia/papers/mpa_cvpr16.pdf), CVPR, 2016, Shu Liu et al.
 
+[SSD: Single Shot MultiBox Detector](http://arxiv.org/pdf/1512.02325v2.pdf), arxiv, 2016, Wei Liu et al. [SOURCE](https://github.com/weiliu89/caffe/tree/ssd)
+
 ##segmantation
 
 [SEMANTIC IMAGE SEGMENTATION WITH DEEP CONVOLUTIONAL
