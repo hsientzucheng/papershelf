@@ -58,6 +58,8 @@ NETS AND FULLY CONNECTED CRFS](https://arxiv.org/pdf/1412.7062v4.pdf), ICLR, 201
 [Object Boundary Guided Semantic
 Segmentation](http://arxiv.org/pdf/1603.09742v4.pdf), (ACCV) 2016, Qin Huang et al.
 
+[Learning to Refine Object Segments](http://arxiv.org/pdf/1603.08695.pdf) Tsung-Yi Lin et al.
+
 ##optical flow
 
 [FlowNet: Learning Optical Flow with Convolutional Networks](http://arxiv.org/pdf/1504.06852v2.pdf), ICCV, 2015, Philipp Fischer et al.
